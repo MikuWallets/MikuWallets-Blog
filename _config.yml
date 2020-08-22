@@ -45,10 +45,10 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                EleMas Swan
-  email:               elemas@hatsunemiku.kr
-  # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  name:                MikuWallets
+  email:               contact@mikuwallets.kr
+  # Used by `jekyll-seo-tag`:
+  twitter:             MikuWallets
 
 # Add links to the sidebar.
 menu:
@@ -70,7 +70,9 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             |
+  Edited by [EleMas*](https://twitter.com/EleMas_Akr)  
+  © 2020. MikuWallets all rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
