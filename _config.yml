@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://username.github.io
+url:                   https://mikuwallets.kr
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,22 +20,24 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko-kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 MikuWallets
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+description:           |
+  미쿠를 널리 이롭게 하는 모임,  
+  '미쿠월렛즈' 입니다.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               |
+  미쿠를 널리 이롭게 하는 모임,  
+  '미쿠월렛즈' 입니다.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [VOCALOID, Hatsune Miku, Doujin, Subculture, Otaku]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
