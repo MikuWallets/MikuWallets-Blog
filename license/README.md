@@ -8,3 +8,6 @@
 
 ## Custom
 * [PRO](./PRO.md)
+
+## About This Program
+* [NOTICE](./NOTICE.md)
