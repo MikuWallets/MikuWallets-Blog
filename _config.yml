@@ -60,6 +60,10 @@ menu:
     url:               /projects/
   - title:             Cooperation
     url:               /cooperation/
+  - title:              In Progress
+    url:                /works/
+  - title:              Posts
+    url:                /posts/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -105,6 +109,10 @@ collections:
   cooperations:
     permalink:         /cooperation/:path/
     output:            true
+
+  works:
+    permalink:          /works/:path/
+    output:             true
 
 # Theme
 # ---------------------------------------------------------------------------------------
