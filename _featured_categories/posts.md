@@ -10,7 +10,7 @@ slug: posts
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  공지같은거 아카이브용 
+  미쿠월렛즈의 새로운 소식을 전합니다.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: false
