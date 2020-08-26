@@ -21,3 +21,19 @@
   background-size: cover;
 }
 
+details[open] summary::after {
+  content: attr(data-open);
+}
+
+details:not([open]) summary::after {
+  content: attr(data-closed);
+}
+
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+}
+
+@keyframes sweep {
+  0%    {opacity: 0; margin: 5px}
+  100%  {opacity: 1; margin: 0px}
+}
