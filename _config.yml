@@ -68,14 +68,14 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
+  - title:             Licenses
+    url:               /license/
   - title:             GitHub
     url:               https://github.com/iSwanGit/MikuWallets-Blog.git
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             |
-  Edited by [EleMas*](https://twitter.com/EleMas_Akr)  
+  Edited by [EleMas*](https://twitter.com/EleMas_Akr){: target="_blank"}  
   © 2020. MikuWallets all rights reserved.
 
 # Format of the permalinks
@@ -245,7 +245,7 @@ hydejack:
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:           true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
@@ -283,7 +283,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      true
+  cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
@@ -327,7 +327,7 @@ exclude:
   - Gemfile.lock
 include:
   - .well-known
-  - LICENSE.md
+#  - LICENSE.md
 
 
 # Plugins
