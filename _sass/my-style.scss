@@ -1,3 +1,5 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css);
+
 .dl-table {
   a {
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
@@ -11,4 +13,27 @@
   .btn, .gumroad-button  {
     margin: 1rem 0;
   }
+}
+
+.icon-pixiv:before {
+  content:"　";
+  background: url('/assets/icons/pixiv.ico') center no-repeat;
+  background-size: cover;
+}
+
+details[open] summary::after {
+  content: attr(data-open);
+}
+
+details:not([open]) summary::after {
+  content: attr(data-closed);
+}
+
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+}
+
+@keyframes sweep {
+  0%    {opacity: 0; margin: 5px}
+  100%  {opacity: 1; margin: 0px}
 }

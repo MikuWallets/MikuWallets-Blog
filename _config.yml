@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://username.github.io
+url:                   https://mikuwallets.kr
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,22 +20,24 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko-kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 MikuWallets
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+description:           |
+  미쿠를 널리 이롭게 하는 모임,  
+  '미쿠월렛즈' 입니다.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               |
+  미쿠를 널리 이롭게 하는 모임,  
+  '미쿠월렛즈' 입니다.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [VOCALOID, Hatsune Miku, Doujin, Subculture, Otaku]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -45,32 +47,36 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
-  # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  name:                MikuWallets
+  email:               contact@mikuwallets.kr
+  # Used by `jekyll-seo-tag`:
+  twitter:             MikuWallets
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             Introduction
+    url:               /introduction/
+  - title:             Projects
+    url:               /projects/
+  - title:             Cooperation
+    url:               /cooperation/
+  - title:              In Progress
+    url:                /works/
+  - title:              Posts
+    url:                /posts/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             Licenses
+    url:               /license/
+  - title:             GitHub
+    url:               https://github.com/iSwanGit/MikuWallets-Blog.git
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             |
+  Edited by [EleMas*](https://twitter.com/EleMas_Akr){: target="_blank"}  
+  © 2020. MikuWallets all rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -100,6 +106,13 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  cooperations:
+    permalink:         /cooperation/:path/
+    output:            true
+
+  works:
+    permalink:          /works/:path/
+    output:             true
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -232,7 +245,7 @@ hydejack:
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:           true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
@@ -270,7 +283,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      true
+  cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
@@ -314,7 +327,7 @@ exclude:
   - Gemfile.lock
 include:
   - .well-known
-  - LICENSE.md
+#  - LICENSE.md
 
 
 # Plugins

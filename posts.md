@@ -2,7 +2,6 @@
 layout: list
 title: Posts
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+  미쿠월렛즈의 새로운 소식을 전합니다.
 grouped: true
 ---
