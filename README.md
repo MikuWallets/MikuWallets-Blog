@@ -1,7 +1,7 @@
 # MikuWallets-Blog
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Hydejack: v9.0.4](https://img.shields.io/badge/Hydejack-v9.0.4-yellowgreen.svg)
+[![Hydejack: v9.0.4](https://img.shields.io/badge/Hydejack-v9.0.4-yellowgreen.svg)](https://hydejack.com/)
 
 하츠네 미쿠를 널리 이롭게 하는 서클 '미쿠월렛즈' 의 블로그입니다.
 
