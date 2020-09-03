@@ -1,5 +1,9 @@
 # Licenses
 
+## About This Program
+* [GPL-3.0](./GPL-3.0.md)
+* [NOTICE](./NOTICE.md)
+
 ## Open Source
 * [Apache-2.0](./Apache-2.0.md)
 * [GPL-3.0](./GPL-3.0.md)
@@ -8,6 +12,3 @@
 
 ## Custom
 * [PRO](./PRO.md)
-
-## About This Program
-* [NOTICE](./NOTICE.md)
