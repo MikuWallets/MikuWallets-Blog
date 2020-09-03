@@ -69,7 +69,7 @@ menu:
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             Licenses
-    url:               /license/
+    url:               /licenses/
   - title:             GitHub
     url:               https://github.com/iSwanGit/MikuWallets-Blog.git
 
