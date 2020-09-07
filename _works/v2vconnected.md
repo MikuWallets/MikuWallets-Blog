@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Virtual to Vocaloid Connected
-image: /assets/img/project/2020_v2vconnected_header.jpg
+image: /assets/img/project/2020_v2vconnected_header_new.jpg
 #date: '2020-09-20'
 caption: |
   V2V와 함께 하는 온라인 VR DJ이벤트 개최!
@@ -9,6 +9,8 @@ sitemap: false
 ---
 
 # Virtual to Vocaloid Connected
+<p style="text-align: right;">Art by seomin</p>
+
 ## 언택트 문화를 향한 새로운 도전
 
 Virtual to Vocaloid(V2V)는 일본의 동인 보컬로이드 일렉트로닉 음악 레이블인 NEXTLIGHT와 On Prism Records 두 레이블에 의해 진행되는 온라인 VR 이벤트입니다.
@@ -29,10 +31,39 @@ Virtual to Vocaloid(V2V)는 일본의 동인 보컬로이드 일렉트로닉 음
 - 장소
   - VRChat 월드 : V2V VocaloidClub
   - Twitch 채널 : MikuWallets (미쿠월렛즈 트위치 채널)
+  - 오프라인 : 서울 용산구 팝콘D스퀘어 대원콘텐츠라이브
+  > 오프라인 상영회는 기부자 및 현장 구매자를 대상으로 진행할 예정이며, COVID-19 확산 상황에 따라 변경 혹은 취소될 수 있습니다.
 
-<!-- TODO: Update -->
-* 추후 라인업 공개를 기대해 주세요!
+* 일러스트레이터
+  - 포스터 : seomin [<i class="fab fa-twitter" style="color: #1DA1F2;"></i>](https://twitter.com/xseomin){: target="_blank"}
+  - 오리지널 디자인 : Shirayuki Towa [<i class="fab fa-twitter" style="color: #1DA1F2;"></i>](https://twitter.com/ShirayukiTowa){: target="_blank"}
+
+## DJ 라인업
+- Virtual Avatar
+  - [Reno](https://twitter.com/reno_gtgtgt){: target="_blank"}
+  - [picco](https://twitter.com/picco_xxx){: target="_blank"}
+  - [irucaice](https://twitter.com/irucaice){: target="_blank"}
+  - [Osanzi](https://twitter.com/3_o_clocker){: target="_blank"}
+- Video
+  - [아마모리P (雨漏りP)](https://twitter.com/Amamori_P){: target="_blank"}
+  - [Shion Hinano](https://twitter.com/shion_hinano){: target="_blank"}
+  - [Mwk](https://twitter.com/Mwk_094){: target="_blank"}
+  - [이치노세 루포 (市瀬るぽ)](https://twitter.com/LUPO_Reportage){: target="_blank"}
 
 ## 관련 링크
 - [개최 공지](https://twitter.com/MikuWallets/status/1297866301407236098){: target="_blank"}
 - [기부 프로젝트 상세 안내 (모금 기간이 종료되었습니다)](https://givetogether.sfac.or.kr:444/html/give/give_soso2.asp?SearchKey=&SearchValue=&SearchStatus=1&SearchProjectTypeCd=01&Page=7&flag=READ&ProjectIdx=344){: target="_blank"}
+- [포스터, 라인업 및 타임 테이블 공지](https://twitter.com/MikuWallets/status/1301837591986143234){: target="_blank"}
+
+## 포스터 및 타임 테이블
+<details>
+<summary data-closed="펼치기" data-open="접기"></summary>
+<!-- 스타일 적용시 div 래핑 -->
+<div markdown="1" style="padding: 15px 0">
+
+![poster](/assets/img/project/2020_v2vconnected_poster.jpg)
+
+![timetable](/assets/img/project/2020_v2vconnected_timetable.jpg)
+
+</div>
+</details>

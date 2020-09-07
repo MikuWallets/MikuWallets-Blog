@@ -1,20 +1,15 @@
-# Hydejack Starter Kit
+# MikuWallets-Blog
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Hydejack: v9.0.4](https://img.shields.io/badge/Hydejack-v9.0.4-yellowgreen.svg)](https://hydejack.com/)
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+하츠네 미쿠를 널리 이롭게 하는 서클 '미쿠월렛즈' 의 블로그입니다.
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+[mikuwallets.kr](https://mikuwallets.kr)
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+## Opening
+하츠네 미쿠의 13번째 생일을 맞이해, 4년간 달려온 미쿠월렛즈의 발자취를 돌이켜 볼 수 있는 블로그를 오픈하였습니다.
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+함께해주신 분들이 있었기에, 여기까지 올 수 있었습니다.  
+이 자리를 빌려 다시 한번 감사드리며 앞으로의 미래에도 많은 응원 부탁드립니다!
+<h3>39!</h3>
