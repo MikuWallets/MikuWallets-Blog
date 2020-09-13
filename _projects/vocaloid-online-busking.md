@@ -2,7 +2,7 @@
 layout: project
 title: 보컬로이드 온라인 버스킹!
 image: /assets/img/project/2020_09_vocaloidonlinebusking_header.jpg
-#date: '2020-09-13'
+date: '2020-09-13'
 caption: |
   덕후찌개와 함께하는 온라인 어쿠스틱 버스킹 이벤트입니다.
 sitemap: false
@@ -21,6 +21,9 @@ sitemap: false
 - 장소
   - 유튜브 [<i class="fab fa-youtube"></i> 덕후찌개](https://www.youtube.com/channel/UCM3KUmsrRb01wwNUBJaVOag){: target="_blank"}
   - 트위치 [<i class="fab fa-twitch"></i> MikuWallets](https://www.twitch.tv/mikuwallets/){: target="_blank"}
+  - 방송 스튜디오 : [<i class="fab fa-twitter"></i> ASOUND STUDIO](https://twitter.com/asound_studio/){: target="_blank"}
+
+* 최대 동시 시청자 수 : 약 60명
 
 ## 출연진
 * 게스트 보컬 : 코리코 [<i class="fab fa-twitter"></i>](https://twitter.com/corico_yurideer){: target="_blank"}
@@ -36,5 +39,15 @@ sitemap: false
 ## 관련 링크
 - [개최 공지](https://twitter.com/MikuWallets/status/1303669887118655488){: target="_blank"}
 
-## 포스터
+## 포스터 및 스튜디오 포토 
 ![poster](/assets/img/project/2020_09_vocaloidonlinebusking_poster.jpg)
+
+<details>
+<summary data-closed="더보기" data-open="접기"></summary>
+<!-- 스타일 적용시 div 래핑 -->
+<div markdown="1" style="padding: 15px 0">
+
+![castphoto](/assets/img/project/2020_09_vocaloidonlinebusking_casts.jpg){: loading="lazy"}
+
+</div>
+</details>
