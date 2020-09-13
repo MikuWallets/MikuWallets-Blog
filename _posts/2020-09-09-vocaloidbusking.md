@@ -15,5 +15,5 @@ sitemap: false
 좋아하는 보컬로이드 명곡들을 어쿠스틱 연주로 만나볼수 있는 유익한 시간을 놓치지 마세요!
 
 <p class="read-more mt1">
-  클릭하여 <a class="heading flip-title" href="/works/vocaloid-online-busking/">보컬로이드 온라인 버스킹</a> 자세히 알아보기
+  클릭하여 <a class="heading flip-title" href="/projects/vocaloid-online-busking/">보컬로이드 온라인 버스킹</a> 자세히 알아보기
 </p>
