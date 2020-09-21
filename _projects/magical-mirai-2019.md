@@ -4,7 +4,7 @@ title: 프로젝트 매지컬 미라이 2019
 image: /assets/img/project/2019_magical_header.jpg
 date: '2019-08-31'
 caption: |
-  매지컬 미라이를 모두가 함께 즐기기, 2019년에도 계속됩니다.
+  모두가 함께 즐기는 매지컬 미라이, 2019년에도 계속됩니다.
 sitemap: false
 ---
 
