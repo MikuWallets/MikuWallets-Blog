@@ -14,7 +14,7 @@ sitemap: false
 - 시간 : 14:00 - 19:30
 - 장소 : 서울 용산구 팝콘D스퀘어 대원콘텐츠라이브
 
-자세한 행사 정보는 [이곳](/works/v2vconnected)을 클릭!
+자세한 행사 정보는 [이곳](/projects/v2vconnected)을 클릭!
 
 ## ▼ 신청은 아래 링크에서! ▼
 - [참가 신청](https://forms.gle/eCWp8t5bt3DK6hRq9){: target="_blank"}
