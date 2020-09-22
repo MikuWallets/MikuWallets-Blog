@@ -43,15 +43,15 @@ Virtual to Vocaloid(V2V)는 일본의 동인 보컬로이드 일렉트로닉 음
 
 ## DJ 라인업
 - Video
-  - [아마모리P (雨漏りP) <i class="fab fa-twitter"></i>](https://twitter.com/Amamori_P){: target="_blank"}
-  - [Shion Hinano <i class="fab fa-twitter"></i>](https://twitter.com/shion_hinano){: target="_blank"} [Setlist](https://twitter.com/shion_hinano/status/1307655875297861637?s=20){: target="_blank"}
-  - [Mwk <i class="fab fa-twitter"></i>](https://twitter.com/Mwk_094){: target="_blank"} [Setlist](https://twitter.com/Mwk_094/status/1307664390003466245?s=20){: target="_blank"}
+  - [아마모리P (雨漏りP) <i class="fab fa-twitter"></i>](https://twitter.com/Amamori_P){: target="_blank"} [Setlist](https://twitter.com/Amamori_P/status/1308007225370136579){: target="_blank"}
+  - [Shion Hinano <i class="fab fa-twitter"></i>](https://twitter.com/shion_hinano){: target="_blank"} [Setlist](https://twitter.com/shion_hinano/status/1307655875297861637){: target="_blank"}
+  - [Mwk <i class="fab fa-twitter"></i>](https://twitter.com/Mwk_094){: target="_blank"} [Setlist](https://twitter.com/Mwk_094/status/1307664390003466245){: target="_blank"}
   - [이치노세 루포 (市瀬るぽ) <i class="fab fa-twitter"></i>](https://twitter.com/LUPO_Reportage){: target="_blank"}
 - Virtual Avatar
-  - [Osanzi <i class="fab fa-twitter"></i>](https://twitter.com/3_o_clocker){: target="_blank"}
-  - [picco <i class="fab fa-twitter"></i>](https://twitter.com/picco_xxx){: target="_blank"} [Setlist](https://twitter.com/picco_xxx/status/1307665319398264832?s=20){: target="_blank"}
+  - [Osanzi <i class="fab fa-twitter"></i>](https://twitter.com/3_o_clocker){: target="_blank"} [Setlist](https://twitter.com/3_o_clocker/status/1308033712924229634){: target="_blank"}
+  - [picco <i class="fab fa-twitter"></i>](https://twitter.com/picco_xxx){: target="_blank"} [Setlist](https://twitter.com/picco_xxx/status/1307665319398264832){: target="_blank"}
   - [Reno <i class="fab fa-twitter"></i>](https://twitter.com/reno_gtgtgt){: target="_blank"}
-  - [irucaice <i class="fab fa-twitter"></i>](https://twitter.com/irucaice){: target="_blank"} [Setlist](https://twitter.com/irucaice/status/1307653856235384832?s=20){: target="_blank"}
+  - [irucaice <i class="fab fa-twitter"></i>](https://twitter.com/irucaice){: target="_blank"} [Setlist](https://twitter.com/irucaice/status/1307653856235384832){: target="_blank"}
   
 
 
