@@ -1,12 +1,18 @@
 ---
 layout: project
-title: 보컬로이드 온라인 버스킹!
+title: 다시 한번! 보컬로이드 온라인 버스킹
 image: /assets/img/project/2020_10_vocaloidonlinebusking2_header.jpg
-date: '2020-09-13'
+#date: '2020-10-11'
 caption: |
-  덕후찌개와 함께하는 온라인 어쿠스틱 버스킹 이벤트입니다.
+  덕후찌개와 함께하는 온라인 어쿠스틱 버스킹, 뜨거운 성원에 힘입은 2회차!
 sitemap: false
 ---
+
+<script>
+  document.location = '#2회';
+  window.history.pushState(null, null, '/projects/vocaloid-online-busking/#2회');
+</script>
+
 
 # 보컬로이드 온라인 버스킹!
 <p style="text-align: right;">Art by seomin</p>
