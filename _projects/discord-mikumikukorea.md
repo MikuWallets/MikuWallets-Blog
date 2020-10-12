@@ -2,7 +2,7 @@
 layout: project
 image: /assets/img/project/2020_10_mmk_open_header.jpg
 date: '2020-10-10'
-caption: |
+description: |
   하츠네 미쿠를 비롯한 음성합성엔진 캐릭터 디스코드 커뮤니티
 sitemap: false
 ---
