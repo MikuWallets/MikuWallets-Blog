@@ -3,13 +3,12 @@ layout: project
 title: 2018 매지컬 미라이 애프터(AFTER)파티
 image: /assets/img/project/2018_afterparty_header.jpg
 date: '2018-10-28'
-caption: |
+description: |
   마지미라의 열기를 이어받는 동인 상영회!
 sitemap: false
 ---
 
 # 2018 매지컬 미라이 애프터(AFTER)파티
-<p style="text-align: right;">Art by PoPuru</p>
 
 ## 마지미라의 열기를 이어받아 애프터파티!
 

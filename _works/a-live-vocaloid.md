@@ -3,7 +3,7 @@ layout: project
 title: A-Live with VOCALOID
 image: /assets/img/project/2020_11_a_live_vocaloid_header.jpg
 #date: '2020-11-07'
-caption: |
+description: |
   에이사운드와 함께하는 애니송 커버 콘서트
 sitemap: false
 ---

@@ -3,13 +3,12 @@ layout: project
 title: 보카나루 (VOCANARU)
 image: /assets/img/project/2018_vocanaru_header.jpg
 date: '2018-11-10'
-caption: |
+description: |
   한국 최초의 보컬로이드 온리 DJ 이벤트입니다.
 sitemap: false
 ---
 
 # 보카나루 (VOCANARU)
-<p style="text-align: right;">Art by PoPuru</p>
 
 ## 국가도 언어도 뛰어넘어, 보카로의 노래로 이어지는 이벤트
 

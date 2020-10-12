@@ -3,7 +3,7 @@ layout: project
 title: 피아프로 스타즈
 image: /assets/img/project/2020_piastar_header.jpg
 date: '2020-07-11'
-caption: |
+description: |
   그림과 음악이 함께하는 새로운 창작의 장, 피아프로 캐릭터즈 온리전입니다.
 links:
   - title: 공식 페이지
@@ -12,8 +12,6 @@ sitemap: false
 ---
 
 # 피아프로 스타즈 (Piapro Stars)
-
-<p style="text-align: right;">Art by bobong</p>
 
 ## 그림과 음악이 함께하는 새로운 창작의 장
 

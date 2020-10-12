@@ -3,7 +3,7 @@ layout: project
 title: 하츠네 샵 (Hatsune Shop)
 image: /assets/img/project/2020_hatsuneshop_header.jpg
 date: '2020-08-24'
-caption: |
+description: |
   미쿠월렛즈가 운영하는 온라인 스토어입니다.
 links:
   - title: 하츠네샵 스토어

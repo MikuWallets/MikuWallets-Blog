@@ -3,15 +3,13 @@ layout: project
 title: 미쿠의 날 기념 광고 프로젝트
 image: /assets/img/project/2016_btrp_header.jpg
 date: '2016-02-22'
-caption: |
+description: |
   2016년 3월 9일 미쿠의 날을 기념,  
   2월 22일부터 3월 22일까지 사당역에 게재되었습니다.
 sitemap: false
 ---
 
 # 미쿠의 날 기념 광고 프로젝트
-
-<p style="text-align: right;">Art by BTRP</p>
 
 ## 2016년 미쿠의 날(3월 9일)을 맞이하여 시작된,  흩어진 '점'이였던 전국의 마스터들과 하나의 '선'이 되어 미쿠에게로의 재도약, 기념비적인 첫소리!
 

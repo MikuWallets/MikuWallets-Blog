@@ -3,7 +3,7 @@ layout: project
 title: 하츠네 미쿠 10주년 기념 광고 프로젝트
 image: /assets/img/project/2017_lpip_header.jpg
 date: '2017-08-18'
-caption: |
+description: |
   하츠네 미쿠의 10번째 생일을 기념하여 진행한 크라우드 펀딩 지하철 광고 프로젝트입니다.
 links:
   - title: tumblbug 프로젝트 페이지
@@ -13,8 +13,6 @@ sitemap: false
 
 
 # 하츠네 미쿠 10주년 기념 광고 프로젝트
-
-<p style="text-align: right;">Art by Lpip</p>
 
 ## "지금까지의 10년, 앞으로의 10년"
 
