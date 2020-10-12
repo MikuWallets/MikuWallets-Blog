@@ -3,13 +3,12 @@ layout: project
 title: 보카나루2 (VOCANARU 2)
 image: /assets/img/project/2019_vocanaru2_header.jpg
 date: '2019-02-02'
-caption: |
+description: |
   보카나루 멤버와 스페셜 게스트, 그리고 새로운 DJ분들과 함께한 캐주얼 DJ행사입니다.
 sitemap: false
 ---
 
 # 보카나루2 (VOCANARU 2)
-<p style="text-align: right;">Art by PoPuru</p>
 
 ## 뜨거운 성원에 이어 다시 돌아왔습니다. 보카나루 2!
 

@@ -3,13 +3,12 @@ layout: project
 title: Virtual to Vocaloid Connected
 image: /assets/img/project/2020_v2vconnected_header_new.jpg
 date: '2020-09-20'
-caption: |
+description: |
   V2V와 함께 하는 온라인 VR DJ이벤트 개최!
 sitemap: false
 ---
 
 # Virtual to Vocaloid Connected
-<p style="text-align: right;">Art by seomin</p>
 
 ## 언택트 문화를 향한 새로운 도전
 

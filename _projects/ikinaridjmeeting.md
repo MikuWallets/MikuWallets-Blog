@@ -2,13 +2,13 @@
 layout: project
 image: /assets/img/project/2020_08_ikinaridj.jpg
 date: '2020-08-26'
-caption: |
+description: |
   코로나로 만날 수 없는 여러분들과 하나가 되는 온라인 DJ 이벤트
 sitemap: false
 ---
 
 # 갑자기 보컬로이드 DJ 벙개
-<p style="text-align: right;">Art by seomin</p>
+
 코로나로 만날수 없는 여러분들과 랜선으로 하나가 되기 위해, 미쿠월렛즈가 온라인 DJ 벙개(번개)를 마련했습니다!
 
 ## 이벤트 정보
@@ -20,7 +20,9 @@ sitemap: false
   - Ankimo [<i class="fab fa-twitter"></i>](https://twitter.com/ankimo_o){: target="_blank"} [Setlist](https://twitter.com/Ankimo_o/status/1299729690278596608){: target="_blank"}
   - XaXa [<i class="fab fa-twitter"></i>](https://twitter.com/xaxakyc){: target="_blank"} [Setlist](https://twitter.com/XaXaKYC/status/1299940816228499461){: target="_blank"}
 
-* 시청자 수
+* 일러스트레이터 : seomin [<i class="fab fa-twitter"></i>](https://twitter.com/xseomin){: target="_blank"}
+
+- 시청자 수
   - 누적 시청자 수 : 204명
   - 최대 동시 시청자 수 : 55명
 

@@ -3,13 +3,12 @@ layout: project
 title: 프로젝트 매지컬 미라이 2019
 image: /assets/img/project/2019_magical_header.jpg
 date: '2019-08-31'
-caption: |
+description: |
   모두가 함께 즐기는 매지컬 미라이, 2019년에도 계속됩니다.
 sitemap: false
 ---
 
 # 프로젝트 매지컬 미라이 2019
-<p style="text-align: right;">Art by wandu_mook</p>
 
 * this unordered seed list will be replaced by the toc
 {:toc}

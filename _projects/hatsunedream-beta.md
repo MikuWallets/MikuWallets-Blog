@@ -3,7 +3,7 @@ layout: project
 title: 하츠네 드림 (Beta)
 image: /assets/img/project/2020_hatsunedream_beta_header.jpg
 date: '2020-03-01'
-caption: |
+description: |
   음성합성엔진을 이용하여 곡을 제작하는 창작자 분들의 앨범 제작 및 유통을 지원하는 프로젝트입니다.
 sitemap: false
 ---

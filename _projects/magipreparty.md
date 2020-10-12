@@ -3,13 +3,12 @@ layout: project
 title: 2018 매지컬 미라이 프리(PRE)파티
 image: /assets/img/project/2018_preparty_header.jpg
 date: '2018-07-21'
-caption: |
+description: |
   MMD를 이용해 제작된 영상으로 진행된 응원 상영회입니다.
 sitemap: false
 ---
 
 # 2018 매지컬 미라이 프리(PRE)파티
-<p style="text-align: right;">Art by PoPuru</p>
 
 ## 콘서트 응원에는 아직 익숙하지 않은 분들을 이끌어 줄 프리파티!
 
