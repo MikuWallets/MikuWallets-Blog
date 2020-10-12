@@ -4,13 +4,12 @@ title: 보컬로이드 온라인 버스킹!
 image: /assets/img/project/2020_10_vocaloidonlinebusking2_header.jpg
 date: '2020-10-11'
 #date: '2020-09-13'
-caption: |
+description: |
   덕후찌개와 함께하는 온라인 어쿠스틱 버스킹 이벤트입니다.
 sitemap: false
 ---
 
 # 보컬로이드 온라인 버스킹!
-<p style="text-align: right;">Art by seomin</p>
 
 ## 어떤 곡이든 뚝딱 카피해내는 덕후찌개 밴드팀과 미쿠월렛즈가 만났다!
 

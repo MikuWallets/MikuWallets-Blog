@@ -3,13 +3,12 @@ layout: project
 title: 보이는 보컬로이드 라디오
 image: /assets/img/project/2020_radio_header.jpg
 date: '2020-08-15'
-caption: |
+description: |
   '보컬로이드 라디오'와 함께한 음악 토크쇼입니다.
 sitemap: false
 ---
 
 # 보이는 보컬로이드 라디오
-<p style="text-align: right;">Art by seomin</p>
 
 ## '보컬로이드 라디오'와 함께합니다
 
