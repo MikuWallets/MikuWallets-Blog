@@ -38,6 +38,10 @@ sitemap: false
 
 - 일러스트레이터 : seomin [<i class="fab fa-twitter"></i>](https://twitter.com/xseomin){: target="_blank"}
 
+## 다시보기
+- [애니송 온라인 버스킹 '보컬로이드편' 하이라이트 1부 : 코리코](https://youtu.be/3aqGWsCKzpM){: target="_blank"}
+- [애니송 온라인 버스킹 '보컬로이드편' 하이라이트 2부 : 코리코(신청곡)](https://youtu.be/pAYPjO8jMu8){: target="_blank"}
+
 ## 관련 링크
 - [개최 공지](https://twitter.com/MikuWallets/status/1303669887118655488){: target="_blank"}
 
