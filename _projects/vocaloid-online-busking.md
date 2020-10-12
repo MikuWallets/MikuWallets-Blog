@@ -2,7 +2,8 @@
 layout: project
 title: 보컬로이드 온라인 버스킹!
 image: /assets/img/project/2020_10_vocaloidonlinebusking2_header.jpg
-date: '2020-09-13'
+date: '2020-10-11'
+#date: '2020-09-13'
 caption: |
   덕후찌개와 함께하는 온라인 어쿠스틱 버스킹 이벤트입니다.
 sitemap: false
@@ -24,6 +25,7 @@ sitemap: false
   - 트위치 [<i class="fab fa-twitch"></i> MikuWallets](https://www.twitch.tv/mikuwallets/){: target="_blank"}
   - 방송 스튜디오 : [<i class="fab fa-twitter"></i> ASOUND STUDIO](https://twitter.com/asound_studio/){: target="_blank"}
 
+* 누적 시청자 수 : 약 210명
 * 최대 동시 시청자 수 : 약 60명
 
 ## 출연진
@@ -61,7 +63,8 @@ sitemap: false
   - 트위치 [<i class="fab fa-twitch"></i> MikuWallets](https://www.twitch.tv/mikuwallets/){: target="_blank"}
   - 방송 스튜디오 : [<i class="fab fa-twitter"></i> ASOUND STUDIO](https://twitter.com/asound_studio/){: target="_blank"}
 
-<!-- * 최대 동시 시청자 수 : 약 명 -->
+* 누적 시청자 수 : 약 130명
+* 최대 동시 시청자 수 : 약 40명
 
 ## 출연진
 * 게스트 보컬 : 달려라 랑낭발 [<i class="fab fa-twitter"></i>](https://twitter.com/rns_0){: target="_blank"}
