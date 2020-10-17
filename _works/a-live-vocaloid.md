@@ -4,7 +4,7 @@ title: A-Live with VOCALOID
 image: /assets/img/project/2020_11_a_live_vocaloid_header.jpg
 #date: '2020-11-07'
 description: |
-  에이사운드와 함께하는 애니송 커버 콘서트
+  사람과 보컬로이드의 목소리가 어우러지는 라이브 콘서트
 sitemap: false
 ---
 
@@ -15,24 +15,27 @@ sitemap: false
 미쿠월렛즈가 A.SOUND와 협력하여 커버 콘서트 『A-Live with VOCALOID』를 개최합니다!
 
 * 양일 공연으로, 일요일은 보컬로이드 특집으로 진행됩니다.
-* 예매는 현재 준비중이며, 추후 공개됩니다.
 
 ## 이벤트 개요
 - 일시 : 2020년 11월 7일(토) 17시 30분~, 8일(일) 16시~
 - 장소 : 서울 용산 팝콘D스퀘어 대원 콘텐츠 라이브
 - 입장료 : 정가 15,000원 / 예매 10,000원
 
-## 테마 및 출연진
-### 7일 (토) : 애니&게임 커버
-- 버닝핑퐁
-- 로열젤리야
-- 이 중에 세명 아이돌이 있다
+## 예매 링크
+- [네이버 예약](https://booking.naver.com/booking/5/bizes/423209/items/3623631){: target="_blank"}
+- 인터파크 (공개 예정)
 
-### 8일 (일) : 보컬로이드 커버
-- 안키모(DJ)
+## 테마 및 출연진
+### 7일 (토) 17시 30분 : 애니메이션 & 게임 커버
+- 이.세.돌 (이 중에 세 명 아이돌이 있다)
+- 버닝핑퐁 (BURNING PINGPONG)
+- 로열젤리야
+
+### 8일 (일) 16시 : 보컬로이드 커버
+- DJ ankimo
 - 미나마요
 - 페어리테일
-- 매지컬밴드
+- MAGICAL BAND
 
 ## 관련 링크
 - [개최 공지 (미쿠월렛즈)](https://twitter.com/MikuWallets/status/1313053538377900033){: target="_blank"}

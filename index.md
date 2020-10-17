@@ -11,7 +11,9 @@ no_excerpt: false
 hide_image: false
 cover:  true
 #projects_page: works.md
-selected_posts: _posts/2020-08-31-grandopen.md
+selected_posts:
+  - _posts/2020-10-16-a-live-vocaloid-reservation-open.md
+  - _posts/2020-10-10-mikumikukorea-open-event.md
 #posts_page: posts.md
 ---
 
@@ -25,13 +27,13 @@ selected_posts: _posts/2020-08-31-grandopen.md
   See <a class="heading flip-title" href="/introduction/">Introduction</a> for more
 </p>
 
-## 진행 중인 이벤트
+## 진행 중인 프로젝트
 <p class="read-more mt1">
   See <a class="heading flip-title" href="/works/">Works/Events In Progress</a> for more
 </p>
 
 ## 소식
-<!--posts_list-->
+<!--posts-->
 <p class="read-more mt1">
   See <a class="heading flip-title" href="/posts/">Posts</a> for more
 </p>
