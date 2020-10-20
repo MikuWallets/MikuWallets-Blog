@@ -23,7 +23,7 @@ sitemap: false
 
 ## 예매 링크
 - [네이버 예약](https://booking.naver.com/booking/5/bizes/423209/items/3623631){: target="_blank"}
-- 인터파크 (공개 예정)
+- [인터파크](http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20008502){: target="_blank"}
 
 ## 테마 및 출연진
 ### 7일 (토) 17시 30분 : 애니메이션 & 게임 커버
@@ -31,11 +31,17 @@ sitemap: false
 - 버닝핑퐁 (BURNING PINGPONG)
 - 로열젤리야
 
+* 대형팬더 (애니메이션 리뷰 전문 채널)
+* 정ㅋ (MC)
+* 인썸 (MC)
+
 ### 8일 (일) 16시 : 보컬로이드 커버
 - DJ ankimo
 - 미나마요
 - 페어리테일
 - MAGICAL BAND
+
+* 냉동빔 (MC)
 
 ## 관련 링크
 - [개최 공지 (미쿠월렛즈)](https://twitter.com/MikuWallets/status/1313053538377900033){: target="_blank"}
@@ -56,3 +62,6 @@ sitemap: false
 
 </div>
 </details>
+
+## 유의 사항
+대원 콘텐츠 라이브는 QR코드를 활용한 전자출입명부, 체온 측정, 띄어 앉기 등 정부의 사회적 거리두기에 대한 공연장 지침을 철저히 엄수하고 있으며, 용산구청의 관리 감독 하에 상시 방역을 진행하고 있습니다.
