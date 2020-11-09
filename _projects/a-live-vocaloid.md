@@ -2,7 +2,7 @@
 layout: project
 title: A-Live with VOCALOID
 image: /assets/img/project/2020_11_a_live_vocaloid_header.jpg
-#date: '2020-11-07'
+date: '2020-11-07'
 description: |
   사람과 보컬로이드의 목소리가 어우러지는 라이브 콘서트
 sitemap: false
@@ -46,6 +46,7 @@ sitemap: false
 ## 관련 링크
 - [개최 공지 (미쿠월렛즈)](https://twitter.com/MikuWallets/status/1313053538377900033){: target="_blank"}
 - [개최 공지 (에이사운드)](https://cafe.naver.com/anisound/252102){: target="_blank"}
+- [출연진 및 스태프 단체사진 (에이사운드)](https://twitter.com/AniSoundS/status/1325626414272376833){: target="_blank"}
 
 ## 포스터
 
