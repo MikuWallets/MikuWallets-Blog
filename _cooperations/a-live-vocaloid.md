@@ -1,7 +1,7 @@
 ---
 layout: project
 title: A-Live with VOCALOID
-image: /assets/img/project/2020_11_a_live_vocaloid_header.jpg
+image: /assets/img/cooperation/2020_11_a_live_vocaloid_header.jpg
 date: '2020-11-07'
 description: |
   사람과 보컬로이드의 목소리가 어우러지는 라이브 콘서트
@@ -50,16 +50,16 @@ sitemap: false
 
 ## 포스터
 
-![poster](/assets/img/project/2020_11_a_live_vocaloid_poster.jpg)
+![poster](/assets/img/cooperation/2020_11_a_live_vocaloid_poster.jpg)
 
 <details>
 <summary data-closed="더보기" data-open="접기"></summary>
 <!-- 스타일 적용시 div 래핑 -->
 <div markdown="1" style="padding: 15px 0">
 
-![poster_1st](/assets/img/project/2020_11_a_live_vocaloid_poster_1.jpg){: loading="lazy"}
+![poster_1st](/assets/img/cooperation/2020_11_a_live_vocaloid_poster_1.jpg){: loading="lazy"}
 
-![poster_2nd](/assets/img/project/2020_11_a_live_vocaloid_poster_2.jpg){: loading="lazy"}
+![poster_2nd](/assets/img/cooperation/2020_11_a_live_vocaloid_poster_2.jpg){: loading="lazy"}
 
 </div>
 </details>
