@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A-Live with VOCALOID 예매 개시!
-image: /assets/img/project/2020_11_a_live_vocaloid_header.jpg
+image: /assets/img/cooperation/2020_11_a_live_vocaloid_header.jpg
 category: posts
 sitemap: false
 ---

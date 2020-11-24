@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A-Live 애니송 커버 콘서트 with VOCALOID 예매 추가 오픈
-image: /assets/img/project/2020_11_a_live_vocaloid_header.jpg
+image: /assets/img/cooperation/2020_11_a_live_vocaloid_header.jpg
 category: posts
 sitemap: false
 ---
