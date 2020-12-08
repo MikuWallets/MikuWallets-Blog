@@ -209,3 +209,6 @@ download:
 hatsuneshop:
   name: HatsuneShop
   icon: icon-cart
+discord:
+  name: Discord
+  icon: fab fa-discord
