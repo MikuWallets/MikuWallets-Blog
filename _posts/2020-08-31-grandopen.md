@@ -5,6 +5,7 @@ date: '2020-08-31'
 image: /assets/img/thumbnail.jpg
 category: posts
 sitemap: false
+related_posts: ''
 ---
 
 # 미쿠월렛즈 블로그 개설
