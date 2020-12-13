@@ -71,7 +71,7 @@ legal:
   - title:             Licenses
     url:               /licenses/
   - title:             GitHub
-    url:               https://github.com/iSwanGit/MikuWallets-Blog.git
+    url:               https://github.com/MikuWallets/MikuWallets-Blog.git
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             |
@@ -91,7 +91,7 @@ host: 0.0.0.0
 port: 4000
 
 # version
-version: 0.2.5-20201110
+version: 0.3.0-20201212
 
 # Collections
 # ----------------------------------------------------------------------------------------

@@ -12,8 +12,7 @@ hide_image: false
 cover:  true
 #projects_page: works.md
 selected_posts:
-  - _posts/2020-10-16-a-live-vocaloid-reservation-open.md
-  - _posts/2020-10-10-mikumikukorea-open-event.md
+  - _posts/2020-12-11-hatsune-dream-#1-xfd.md
 #posts_page: posts.md
 ---
 
