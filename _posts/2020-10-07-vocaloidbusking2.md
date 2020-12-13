@@ -5,6 +5,8 @@ date: '2020-10-07'
 image: /assets/img/project/2020_10_vocaloidonlinebusking2_header.jpg
 category: posts
 sitemap: false
+related_posts:
+  - _posts/2020-09-09-vocaloidbusking.md
 ---
 
 # 다시한번! 보컬로이드 온라인 버스킹 개최

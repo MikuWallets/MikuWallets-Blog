@@ -1,9 +1,11 @@
 ---
 layout: post
 title: A-Live with VOCALOID 예매 개시!
-image: /assets/img/project/2020_11_a_live_vocaloid_header.jpg
+image: /assets/img/cooperation/2020_11_a_live_vocaloid_header.jpg
 category: posts
 sitemap: false
+related_posts:
+ - _posts/2020-10-20-a-live-reservation-interpark-open.md
 ---
 
 # A-Live with VOCALOID 예매 개시!
