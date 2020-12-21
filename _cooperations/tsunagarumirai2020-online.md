@@ -22,8 +22,8 @@ sitemap: false
 ## 기획 내용
 - 참가비 : 무료
 - Kiite Cafe × 츠나가루 미라이의 콜라보  
-  - 2020년 12월 18일(금) 21:00～22:30,  
-    2020년 12월 20일(일) 21:00～22:30
+  - 2020년 12월 18일(금) 21:00～22:30 [<i class="fas fa-music"></i> Playlist](https://kiite.jp/playlist/H5udT5eHat){: target="_blank"}  
+    2020년 12월 20일(일) 21:00～22:30 [<i class="fas fa-music"></i> Playlist](https://kiite.jp/playlist/gIWaBSMD06){: target="_blank"}
   - 해당 시간에는 [Kiite Cafe](https://cafe.kiite.jp/intro){: target="_blank"}에서 본 기획 전용의 플레이리스트가 재생됩니다.
 - 온라인 DJ 이벤트 생중계  
   - 2020년 12월 19일(토) 21:00～24:00
