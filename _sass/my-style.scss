@@ -63,4 +63,5 @@ details[open] summary ~ * {
 // fontawsome hyperlink icon underline
 a > [class^="fa"], [class*=" fa"] {
   text-decoration: inherit;
+  text-decoration-color: inherit;
 }
