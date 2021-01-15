@@ -8,7 +8,7 @@ description: |
 links:
   - title: 하츠네샵 스토어
     url: http://hatsune.shop
-sitemap: false
+# sitemap: false
 ---
 
 # 하츠네 샵 (Hatsune Shop)

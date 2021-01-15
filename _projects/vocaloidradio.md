@@ -5,7 +5,6 @@ image: /assets/img/project/2020_radio_header.jpg
 date: '2020-08-15'
 description: |
   '보컬로이드 라디오'와 함께한 음악 토크쇼입니다.
-sitemap: false
 ---
 
 # 보이는 보컬로이드 라디오

@@ -3,7 +3,6 @@ layout: post
 #title: 하츠네 드림 컴필레이션 #1 앨범 크로스페이드 공개!
 image: /assets/img/post/2020_12_hatsune_dream_c1_header.jpg
 category: posts
-sitemap: false
 tag: 하츠네 드림
 related_posts: ''
 ---

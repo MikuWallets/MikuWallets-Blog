@@ -5,7 +5,6 @@ image: /assets/img/project/2019_mikuze_header.jpg
 date: '2019-03-09'
 description: |
   미쿠의 날을 기념한 동인 행사입니다.
-sitemap: false
 ---
 
 # 미쿠제 2019

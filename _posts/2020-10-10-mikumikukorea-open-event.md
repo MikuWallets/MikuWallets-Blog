@@ -4,7 +4,6 @@ title: MikuMikuKorea 디스코드 서버 오픈 기념 이벤트
 date: '2020-10-10'
 image: /assets/img/post/2020_10_mmk_open_event_header.jpg
 category: posts
-sitemap: false
 related_posts: ''
 ---
 

@@ -5,7 +5,6 @@ image: /assets/img/project/2018_afterparty_header.jpg
 date: '2018-10-28'
 description: |
   마지미라의 열기를 이어받는 동인 상영회!
-sitemap: false
 ---
 
 # 2018 매지컬 미라이 애프터(AFTER)파티

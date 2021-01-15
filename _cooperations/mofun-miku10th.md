@@ -5,7 +5,6 @@ image: /assets/img/cooperation/2018_mofunmiku_header.jpg
 date: '2018-03-09'
 description: |
   한국 오프라인 매장 최초의 하츠네 미쿠 공식 콜라보!
-sitemap: false
 ---
 
 # 모펀 미쿠 10주년 콜라보 & 미쿠의날 행사

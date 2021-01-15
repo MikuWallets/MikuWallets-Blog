@@ -5,7 +5,6 @@ image: /assets/img/project/2020_mikuze_header.jpg
 date: '2020-03-14'
 description: |
   2020년 미쿠의 날 맞이 종합 동인 이벤트 
-sitemap: false
 ---
 
 # 미쿠제(MIKUZE) 2020

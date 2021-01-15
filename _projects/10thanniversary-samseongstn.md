@@ -8,7 +8,6 @@ description: |
 links:
   - title: tumblbug 프로젝트 페이지
     url: https://tumblbug.com/miku
-sitemap: false
 ---
 
 

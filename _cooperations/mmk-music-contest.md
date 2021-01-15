@@ -5,7 +5,6 @@ image: /assets/img/cooperation/2020_10_mmkmc_header.jpg
 date: '2020-10-26'
 description: |
   부담없이 참여하는 음성합성엔진 Only 음악 콘테스트
-sitemap: false
 ---
 
 

@@ -5,7 +5,6 @@ image: /assets/img/cooperation/2020_11_a_live_vocaloid_header.jpg
 date: '2020-11-07'
 description: |
   사람과 보컬로이드의 목소리가 어우러지는 라이브 콘서트
-sitemap: false
 ---
 
 # A-Live with VOCALOID
