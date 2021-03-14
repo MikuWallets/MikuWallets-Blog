@@ -5,7 +5,6 @@ image: /assets/img/cooperation/2019_voice_header.jpg
 date: '2019-11-30'
 description: |
   7년만의 보컬로이드 온리 이벤트, 그리고 동인 라이브. 
-sitemap: false
 ---
 
 # VOiCE & 홀로그램 라이브

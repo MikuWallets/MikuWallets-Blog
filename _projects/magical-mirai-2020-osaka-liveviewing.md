@@ -5,7 +5,6 @@ image: /assets/img/project/2020_11_magicalmirai_liveviewing.jpg
 date: '2020-11-29'
 description: |
   미쿠월렛즈에서 진행하는 비공식, 비영리 동시 상영회입니다.
-sitemap: false
 ---
 
 # 매지컬 미라이 2020 in OSAKA 생중계 상영회

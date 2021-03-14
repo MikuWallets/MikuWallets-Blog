@@ -8,7 +8,6 @@ description: |
 links:
   - title: 공식 페이지
     url: https://piastar.hatsunemiku.kr
-sitemap: false
 ---
 
 # 피아프로 스타즈 (Piapro Stars)

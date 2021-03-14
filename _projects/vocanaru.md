@@ -5,7 +5,6 @@ image: /assets/img/project/2018_vocanaru_header.jpg
 date: '2018-11-10'
 description: |
   한국 최초의 보컬로이드 온리 DJ 이벤트입니다.
-sitemap: false
 ---
 
 # 보카나루 (VOCANARU)

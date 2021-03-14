@@ -4,7 +4,6 @@ image: /assets/img/project/2020_08_ikinaridj.jpg
 date: '2020-08-26'
 description: |
   코로나로 만날 수 없는 여러분들과 하나가 되는 온라인 DJ 이벤트
-sitemap: false
 ---
 
 # 갑자기 보컬로이드 DJ 벙개

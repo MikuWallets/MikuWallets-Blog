@@ -5,7 +5,6 @@ image: /assets/img/project/2019_vocanaru2_header.jpg
 date: '2019-02-02'
 description: |
   보카나루 멤버와 스페셜 게스트, 그리고 새로운 DJ분들과 함께한 캐주얼 DJ행사입니다.
-sitemap: false
 ---
 
 # 보카나루2 (VOCANARU 2)

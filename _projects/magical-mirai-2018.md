@@ -5,7 +5,6 @@ image: /assets/img/project/2018_magical_header.jpg
 date: '2018-08-31'
 description: |
   매지컬 미라이를 즐기며 모두가 함께하기 위한 종합 프로젝트입니다.
-sitemap: false
 ---
 
 # 프로젝트 매지컬 미라이 2018

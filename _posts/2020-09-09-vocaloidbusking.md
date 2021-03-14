@@ -4,7 +4,6 @@ title: 보컬로이드 온라인 버스킹을 엽니다!
 date: '2020-09-09'
 image: /assets/img/project/2020_09_vocaloidonlinebusking_header.jpg
 category: posts
-sitemap: false
 related_posts:
   - _posts/2020-10-07-vocaloidbusking2.md
 ---

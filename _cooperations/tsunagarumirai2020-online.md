@@ -5,7 +5,6 @@ image: /assets/img/cooperation/2020_tsunamira2020_online_header.jpg
 date: '2020-12-18'
 description: |
   매지컬 미라이 기간에 개최되는 비공식 교류회 「츠나가루 미라이」의 온라인 이벤트
-sitemap: false
 ---
 
 # 츠나가루 미라이 2020 Online

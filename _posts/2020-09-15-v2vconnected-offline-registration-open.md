@@ -3,7 +3,6 @@ layout: post
 title: V2V Connected 오프라인 상영 참가 신청 오픈
 image: /assets/img/post/2020_09_v2vconnected_offline_registration_open_header.jpg
 category: posts
-sitemap: false
 related_posts: ''
 ---
 
