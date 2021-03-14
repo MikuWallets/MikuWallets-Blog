@@ -12,7 +12,7 @@ hide_image: false
 cover:  true
 #projects_page: works.md
 selected_posts:
-  - _posts/2020-12-11-hatsune-dream-#1-xfd.md
+  - _posts/2021-03-09-2021-season-greeting.md
 #posts_page: posts.md
 ---
 
