@@ -120,7 +120,7 @@ collections:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 # remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
@@ -199,7 +199,7 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         katex
+  math_engine:         mathjax
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
@@ -323,6 +323,8 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 exclude:
+  - ./#jekyll-theme-hydejack/node_modules
+  - ./#jekyll-theme-hydejack/.git
   - .jekyll-cache
   - .sass-cache
   - vendor
