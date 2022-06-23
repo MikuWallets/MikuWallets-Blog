@@ -2,7 +2,8 @@
 layout: project
 title: 보카나루3 (VOCANARU 3)
 image: /assets/img/project/2022_vocanaru3_header.jpg
-date: '2022-06-25'
+date: '2022-05-27'
+# date: '2022-06-25'
 description: |
   ✨보컬로이드 온리 디제잉 파티 「보카나루3」✨
 ---
@@ -39,6 +40,9 @@ description: |
 - VJ
   - Lyrebird Ferdinant
   - 김뇨롱([<i class="fab fa-twitter" style="color: #1DA1F2;"></i> @Nyolong_](https://twitter.com/Nyolong_){: target="_blank"})
+
+## 상세 공지(트윗) 보기
+[【VOCANARU3 개최 알림】](https://twitter.com/MikuWallets/status/1534128120156274688?s=20&t=ZaTBbR5j5e4Xpfwj-VrORA){: target="_blank"})
 
 <!-- 
 ## 사진
