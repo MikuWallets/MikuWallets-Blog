@@ -43,22 +43,3 @@ description: |
 
 ## 상세 공지(트윗) 보기
 [【VOCANARU3 개최 알림】](https://twitter.com/MikuWallets/status/1534128120156274688?s=20&t=ZaTBbR5j5e4Xpfwj-VrORA){: target="_blank"})
-
-<!-- 
-## 사진
-![photo](/assets/img/project/2019_vocanaru2_phototime.jpg){: loading="lazy"}
-
-<details>
-<summary data-closed="더보기" data-open="접기"></summary>
--->
-<!-- 스타일 적용시 div 래핑 -->
-<!-- 
-<div markdown="1" style="padding: 15px 0">
-
-![keisei](/assets/img/project/2019_vocanaru2_keisei.jpg){: loading="lazy"}
-
-![stage](/assets/img/project/2019_vocanaru2_stage.jpg){: loading="lazy"}
-
-</div>
-</details>
--->
